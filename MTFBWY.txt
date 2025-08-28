@@ -1,2 +1,6 @@
 may the force be with you
+<<<<<<< HEAD
 Que la fuerza te acompañe
+=======
+Que la fuerza lo acompañe, maestro
+>>>>>>> thedarkside
